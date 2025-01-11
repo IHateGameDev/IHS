@@ -3,10 +3,10 @@ In general, this library was created as an auxiliary one for my other library -
 [*"IHEngine"*](https://github.com/IHateGameDev/IHEngine). You can safely use them in your projects, but according to the rules of the [**MIT License**](../License) of course.
 You can also [contribute to the development!](#cooperation)
 ### Other languages ​​for README:
-- [English](../README.md)
-- ~~**Russian**~~
-- [French](RMFranch.md)
-- [German](RMGerman.md)
+- ~~**English**~~
+- [Russian](docs/RMRussian.md)
+- [French](docs/RMFranch.md)
+- [German](docs/RMGerman.md)
 
 ## Build
 ### Flags:

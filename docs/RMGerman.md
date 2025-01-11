@@ -4,9 +4,9 @@ Im Allgemeinen wurde diese Bibliothek als Hilfsbibliothek für meine andere Bibl
 Sie können auch [zur Entwicklung beitragen!](#Zusammenarbeit)
 ### Andere Sprachen für README:
 - [Englisch](../README.md)
-- ~~**Russisch**~~
+- [Russisch](RMRussian.md)
 - [Französisch](RMFranch.md)
-- [Deutsch](RMGerman.md)
+- ~~**Deutsch**~~
 
 ## Build
 ### Flags:

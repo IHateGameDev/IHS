@@ -4,8 +4,8 @@ En général, cette bibliothèque a été créée comme une bibliothèque auxili
 Vous pouvez aussi [contribuer au développement !](#coopération)
 ### Autres langues pour README :
 - [Anglais](../README.md)
-- ~~**Russe**~~
-- [Français](RMFranch.md)
+- [Russe](RMRussian.md)
+- ~~**Français**~~
 - [Allemand](RMGerman.md)
 
 ## Build
