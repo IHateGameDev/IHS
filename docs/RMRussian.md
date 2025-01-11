@@ -22,7 +22,7 @@ mkdir build #!!!MAKEDIR в Windows
 cd build
 ```
 
-Если вы только нужна библиотека:
+Если нужна только библиотека:
 ```
 cmake ../ -DEXAMPLES=OFF
 make
