@@ -3,8 +3,8 @@ Im Allgemeinen wurde diese Bibliothek als Hilfsbibliothek für meine andere Bibl
 [*„IHEngine(Snake Engine)“*](https://github.com/IHateGameDev/SnakeEnine). Sie können sie jedoch sicher in Ihren Projekten verwenden, natürlich unter den Regeln der [**MIT-Lizenz**](../MIT License). Sie können auch an der Entwicklung teilnehmen!
 ### Andere Sprachen für README:
 - [Englisch](../README)
-- [Russisch](RMRussian)
-- [Französisch](RMRussian)
+- [Russisch](RMRussian.md)
+- [Französisch](RMRussian.md)
 - ~~**Deutsch**~~
 
 *übersetzt von Übersetzer*
