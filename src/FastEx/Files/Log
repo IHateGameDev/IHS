@@ -1,0 +1,6 @@
+START
+	INFO(2025-01-11 10:31:21): Executable file directory: /path/to/Lib/IHSystem/FastEx
+	WARNING(2025-01-11 10:31:21): Your age is negative!
+	INFO(2025-01-11 10:31:21): Your age set as 0
+	ERROR(2025-01-11 10:31:21): ERROR
+END
