@@ -8,7 +8,7 @@ void Error()
 int main()
 {
   std::string execDirectory(ih::GetExecutableDirectory());
-  ih::Logger logger(execDirectory+"/Files/Log", 3);
+  ih::Logger logger(execDirectory+"/Log", 3);
 
   logger.info("Executable file directory: " + execDirectory, 3);
   
