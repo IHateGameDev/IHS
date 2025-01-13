@@ -47,4 +47,4 @@ sudo make install
 Пока я не имею четкого представления о том, во что может превратиться этот проект.
 Но буду рад любой помощи. Единственное, что нужно для кодинга, это +- нормальные знания C++/C и git.
 Вы также можете найти ошибки или предложить что-то новое!
-Если вы хотите помочь: [Telegram](https://t.me/IHateGameDev/), [Mail](izaachategamedev@gmail.com), [Discord](https://discordapp.com/users/1258273988908552293/).
+Если вы хотите помочь: [Telegram](https://t.me/IHateGameDev/), [Mail](https://izaachategamedev@gmail.com), [Discord](https://discordapp.com/users/1258273988908552293/).

@@ -47,6 +47,6 @@ sudo make install
 I don't have a clear idea of what this project could turn into yet.
 But I'd be glad to get any help. The only thing you need for coding is +- normal knowledge of C++/C and git.
 You can also find errors or suggest something new!
-If you want to help: [Telegram](https://t.me/IHateGameDev/), [Mail](izaachategamedev@gmail.com), [Discord](https://discordapp.com/users/1258273988908552293/).
+If you want to help: [Telegram](https://t.me/IHateGameDev/), [Mail](https://izaachategamedev@gmail.com), [Discord](https://discordapp.com/users/1258273988908552293/).
 
 *partially translated by translator*
